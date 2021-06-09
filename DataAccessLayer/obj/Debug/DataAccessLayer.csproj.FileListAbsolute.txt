@@ -1,0 +1,14 @@
+C:\Users\Brighit\source\repos\Semana13-WebApiCRUD\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\Brighit\source\repos\Semana13-WebApiCRUD\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\6 CICLO Tecsup-2021 I\Desarrollo de Aplicaciones Empresariales Avanzado\Proyectos\Sem13-WebApiCRUD\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+D:\6 CICLO Tecsup-2021 I\Desarrollo de Aplicaciones Empresariales Avanzado\Proyectos\Sem13-WebApiCRUD\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\6 CICLO Tecsup-2021 I\Desarrollo de Aplicaciones Empresariales Avanzado\Proyectos\Sem13-WebApiCRUD\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\6 CICLO Tecsup-2021 I\Desarrollo de Aplicaciones Empresariales Avanzado\Proyectos\Sem13-WebApiCRUD\DataAccessLayer\bin\Debug\EntityFramework.dll
+D:\6 CICLO Tecsup-2021 I\Desarrollo de Aplicaciones Empresariales Avanzado\Proyectos\Sem13-WebApiCRUD\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\6 CICLO Tecsup-2021 I\Desarrollo de Aplicaciones Empresariales Avanzado\Proyectos\Sem13-WebApiCRUD\DataAccessLayer\bin\Debug\EntityFramework.xml
+D:\6 CICLO Tecsup-2021 I\Desarrollo de Aplicaciones Empresariales Avanzado\Proyectos\Sem13-WebApiCRUD\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\6 CICLO Tecsup-2021 I\Desarrollo de Aplicaciones Empresariales Avanzado\Proyectos\Sem13-WebApiCRUD\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+D:\6 CICLO Tecsup-2021 I\Desarrollo de Aplicaciones Empresariales Avanzado\Proyectos\Sem13-WebApiCRUD\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\6 CICLO Tecsup-2021 I\Desarrollo de Aplicaciones Empresariales Avanzado\Proyectos\Sem13-WebApiCRUD\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+D:\6 CICLO Tecsup-2021 I\Desarrollo de Aplicaciones Empresariales Avanzado\Proyectos\Sem13-WebApiCRUD\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\6 CICLO Tecsup-2021 I\Desarrollo de Aplicaciones Empresariales Avanzado\Proyectos\Sem13-WebApiCRUD\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
